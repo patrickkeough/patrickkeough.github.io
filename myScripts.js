@@ -1,7 +1,7 @@
 function myLoop(){
   var start = document.getElementById("start").value;
   var end = document.getElementById("end").value;
-  var jump = document.getElementById("count").value;
+  var jump = document.getElementById("jump").value;
   
   console.log(typeof start);
   console.log(typeof end);
